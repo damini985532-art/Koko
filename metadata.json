@@ -1,0 +1,6 @@
+{
+  "name": "Catering Display Manager",
+  "description": "Complete catering inventory, counter display stations, and equipment packing manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
